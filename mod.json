@@ -1,0 +1,14 @@
+{
+	"id": "Szoob",
+	"name": "SZOOB!!",
+	"author": ["szoob", "vitellary"],
+	"description": "szoob",
+	"prefix": "szoob",
+	"main_file": "src/Szoob.lua",
+	"priority": 116,
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.7)"
+	],
+	"version": "1.0.0"
+}
